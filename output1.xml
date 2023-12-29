@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<SADEntry>
+    <ConsolidatedItems>
+        <ConsolidatedItem>
+            <Importer>
+                <Number>20001428</Number>
+            </Importer>
+            <Items>
+                <Code>9802.00.61</Code>
+                <Desc>WIG</Desc>
+            </Items>
+        </ConsolidatedItem>
+        <ConsolidatedItem>
+            <Importer>
+                <Number>21639542</Number>
+            </Importer>
+            <Items>
+                <Code>9802.00.62</Code>
+                <Desc>Another Item</Desc>
+            </Items>
+        </ConsolidatedItem>
+    </ConsolidatedItems>
+</SADEntry>

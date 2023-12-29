@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<SADEntry>
+    <ConsolidatedItems>
+        <ConsolidatedItem>
+            <Importer>
+                <Number>20001428</Number>
+            </Importer>
+            <Exporter>
+                <Name>ffname</Name>
+            </Exporter>
+        </ConsolidatedItem>
+        <ConsolidatedItem>
+            <Importer>
+                <Number>21639542</Number>
+            </Importer>
+            <Exporter>
+                <Name>ffname</Name>
+            </Exporter>
+        </ConsolidatedItem>
+    </ConsolidatedItems>
+</SADEntry>

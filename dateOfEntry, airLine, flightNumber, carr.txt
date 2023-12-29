@@ -1,0 +1,6 @@
+dateOfEntry, airLine, flightNumber, carrier, regime, carriername, shippingport, billnumber,
+                        pkgcount, pkgtype, grosswt, grosswtunit, grossvol, contents, grossvolunit, ffname, ffaddress,
+                        ffcity, ffstate, ffcountry, ffzip, netcost, netfreight, arrivaldate, departuredate,
+                        dischargeport, tod, categoryofgoods, consignee, description_code, tin_number,
+                        value, traffic_code, mawb, Weight_Lbs
+                        consignee, description_code, tin_number, value, traffic_code, mawb, Weight_Lbs

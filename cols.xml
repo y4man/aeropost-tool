@@ -1,0 +1,101 @@
+<Date>dateOfEntry</Date>
+<Regime>IM1</Regime>
+<Importer>
+<Number>tin_number</Number>
+</Importer>
+<Exporter>
+<Name>ffname</Name>
+<Address>ffaddress</Address>
+<City>ffcity</City>
+<State>ffstate</State>
+<PostalCode>ffzip</PostalCode>
+<Country>ffcountry</Country>
+</Exporter>
+<Consignment>
+<DepartureDate>departuredate</DepartureDate>
+<ArrivalDate>arrivaldate</ArrivalDate>
+<ExportCountry>ffcountry</ExportCountry>
+<ImportCountry>CYM</ImportCountry>
+<ShippingPort>shippingport</ShippingPort>
+<DischargePort>dischargeport</DischargePort>
+<TransportMode>AIR</TransportMode>
+</Consignment>
+<Shipment>
+<VesselCode>carrier</VesselCode>
+<VoyageNo>flightNumber</VoyageNo>
+<ShippingAgent>carriername</ShippingAgent>
+<BillNumber>billnumber</BillNumber>
+<BillType>CONSOLIDATED</BillType>
+</Shipment>
+<Packages>
+<PkgCount>pkgcount</PkgCount>
+<PkgType>pkgtype</PkgType>
+<GrossWt>grosswt</GrossWt>
+<GrossWtUnit>grosswtunit</GrossWtUnit>
+<GrossVol>grossvol</GrossVol>
+<GrossVolUnit>grossvolunit</GrossVolUnit>
+<Contents>contents</Contents>
+<CategoryOfGoods>categoryofgoods</CategoryOfGoods>
+</Packages>
+<Valuation>
+<Currency>USD</Currency>
+<NetCost>netcost</NetCost>
+<NetInsurance>NetInsurance</NetInsurance>
+<NetFreight>netfreight</NetFreight>
+<TermsOfDelivery>FOB</TermsOfDelivery>
+</Valuation>
+<MoneyDeclaredFlag>N</MoneyDeclaredFlag>
+
+
+
+<ConsolidatedItem>
+    <Importer>
+        <Number>21639542</Number>
+    </Importer>
+    <Exporter>
+        <Name>AEROPOST INTERNATIONAL</Name>
+        <Address>AEROPOST</Address>
+        <City>DORAL</City>
+        <State>FL</State>
+        <PostalCode>33172</PostalCode>
+        <Country>USA</Country>
+        <Phone/>
+    </Exporter>
+    <Finance>
+    <FinanceParty>T</FinanceParty>
+    <GuaranteeType>BD</GuaranteeType>
+    </Finance>
+    <BillNumber>ABBEY-101PM-7123</BillNumber>
+    <Packages>
+    <PkgCount>1</PkgCount>
+    <PkgType>BG</PkgType>
+    <GrossWt>0.00</GrossWt>
+    <GrossWtUnit>LB</GrossWtUnit>
+    <GrossVol>0</GrossVol>
+    <GrossVolUnit>CF</GrossVolUnit>
+    <Contents>17522497123 - ABBEYGAIL ROBINSON - General merchandise</Contents>
+    <CategoryOfGoods>1</CategoryOfGoods>
+    </Packages>
+    <Valuation>
+    <Currency>USD</Currency>
+    <NetCost>116.45</NetCost>
+    <NetInsurance>1.21</NetInsurance>
+    <NetFreight>4.31</NetFreight>
+    <TermsOfDelivery>FOB</TermsOfDelivery>
+    </Valuation>
+    <Items>
+    <Code>9802.00.61</Code>
+    <Desc>WIG</Desc>
+    <CPC>IM100</CPC>
+    <Preference>0</Preference>
+    <Origin>USA</Origin>
+    <Qty>1.0000</Qty>
+    <QtyUnit>KG</QtyUnit>
+    <Cost>116.45</Cost>
+    <Insurance>1.21</Insurance>
+    <Freight>4.31</Freight>
+    <InvNumber>ATTACHED</InvNumber>
+    <WaiverPct>0.00</WaiverPct>
+    </Items>
+    <MoneyDeclaredFlag>N</MoneyDeclaredFlag>
+    </ConsolidatedItem>
